@@ -1,6 +1,6 @@
 # WordlES
 
-[Wordles](http://wordles.online "Wordles") is the spanish version of the popular game [Wordle](http://nytimes.com/wordle "Wordle"). 
+[Wordles](http://wordles.online "Wordles") is the spanish version of the popular game [Wordle](http://nytimes.com/wordle "Wordle"). This version has been built with Flutter, then runs on Android, iOS and Web platforms. 
 
 ## Features
 - Word of the day
