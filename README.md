@@ -4,7 +4,7 @@
 
 ## Features
 - Word of the day
-- Create a Wordle game a share it with your friends
+- Create a Wordle game and share it with your friends
 - Play a random Wordle
 - Get the meaning of the words acording to the [RAE](http://rae.es/ "RAE")
 
