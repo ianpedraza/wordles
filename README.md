@@ -15,7 +15,7 @@
 
 ## Setup
 - Config your own Firebase project
-- Firestore creates collection wordles and add this object 
+- Firestore: creates collection wordles and add this object 
 `
 {
   id: "wordleOfTheDay",
@@ -25,7 +25,7 @@
 `
 in `wordles/wordleOfTheDay`
 - Config this [Firebase Cloud Functions (source)](https://gist.github.com/ianpedraza/0c416be93ef4104c240067a238a43ac4 "Cloud Functions").
--- The project's cloud functions uses this node's [dependency](https://www.npmjs.com/package/rae-api "dependency"). Don't forget to add it.
+- The project's cloud functions uses this node's [dependency](https://www.npmjs.com/package/rae-api "dependency"). Don't forget to add it.
 - Config Firebase in project using [DefaultFirebaseOptions](https://firebase.flutter.dev/docs/cli/ "DefaultFirebaseOptions")
 
 That's all ! Feedback and PR are welcome :)
